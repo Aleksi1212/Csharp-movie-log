@@ -1,0 +1,15 @@
+C:\Users\aleks\Documents\GitHub\Csharp-movie-log\bin\Debug\net6.0\Csharp-movie-log.exe
+C:\Users\aleks\Documents\GitHub\Csharp-movie-log\bin\Debug\net6.0\Csharp-movie-log.deps.json
+C:\Users\aleks\Documents\GitHub\Csharp-movie-log\bin\Debug\net6.0\Csharp-movie-log.runtimeconfig.json
+C:\Users\aleks\Documents\GitHub\Csharp-movie-log\bin\Debug\net6.0\Csharp-movie-log.dll
+C:\Users\aleks\Documents\GitHub\Csharp-movie-log\bin\Debug\net6.0\Csharp-movie-log.pdb
+C:\Users\aleks\Documents\GitHub\Csharp-movie-log\obj\Debug\net6.0\Csharp-movie-log.csproj.AssemblyReference.cache
+C:\Users\aleks\Documents\GitHub\Csharp-movie-log\obj\Debug\net6.0\Csharp-movie-log.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Documents\GitHub\Csharp-movie-log\obj\Debug\net6.0\Csharp-movie-log.AssemblyInfoInputs.cache
+C:\Users\aleks\Documents\GitHub\Csharp-movie-log\obj\Debug\net6.0\Csharp-movie-log.AssemblyInfo.cs
+C:\Users\aleks\Documents\GitHub\Csharp-movie-log\obj\Debug\net6.0\Csharp-movie-log.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Documents\GitHub\Csharp-movie-log\obj\Debug\net6.0\Csharp-movie-log.dll
+C:\Users\aleks\Documents\GitHub\Csharp-movie-log\obj\Debug\net6.0\refint\Csharp-movie-log.dll
+C:\Users\aleks\Documents\GitHub\Csharp-movie-log\obj\Debug\net6.0\Csharp-movie-log.pdb
+C:\Users\aleks\Documents\GitHub\Csharp-movie-log\obj\Debug\net6.0\Csharp-movie-log.genruntimeconfig.cache
+C:\Users\aleks\Documents\GitHub\Csharp-movie-log\obj\Debug\net6.0\ref\Csharp-movie-log.dll
