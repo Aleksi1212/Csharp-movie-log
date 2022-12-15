@@ -99,15 +99,20 @@ public class Program {
 
         // remove movie method
         public void Remove_movie() {
-            for (int i = 0; i < this.Movie.Count; i++) {
-                Console.WriteLine($"{i+1}) {this.Movie[i][0]} ({this.Movie[i][2]}), {this.Movie[i][1]} minutes.");
+            if (this.Movie.Count > 0) {
+                for (int i = 0; i < this.Movie.Count; i++) {
+                    Console.WriteLine($"{i+1}) {this.Movie[i][0]} ({this.Movie[i][2]}), {this.Movie[i][1]} minutes.");
+                }
+
+                Console.Write("Input: ");
+                int remove = Convert.ToInt32(Console.ReadLine());
+
+                this.minutes -= Convert.ToInt32(this.Movie[remove-1][1]);
+                this.Movie.RemoveAt(remove-1);
+
+            } else {
+                Console.WriteLine("No movies to remove");
             }
-
-            Console.Write("Input: ");
-            int remove = Convert.ToInt32(Console.ReadLine());
-
-            this.minutes -= Convert.ToInt32(this.Movie[remove-1][1]);
-            this.Movie.RemoveAt(remove-1);
         }
 
         // show all movies in database
